@@ -34,7 +34,7 @@ El objetivo es **identificar patrones de cancelación de clientes** para propone
 
 ## 📊 Tecnologías Utilizadas
 
-- **Python 3.x**
+- **Python 3.11.13**
 - **Pandas** – Limpieza y manipulación de datos.
 - **NumPy** – Operaciones numéricas.
 - **Matplotlib & Seaborn** – Visualización de datos.
